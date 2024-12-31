@@ -1,0 +1,4 @@
+# DEPENDENCIES
+
+- Cimg
+- ImageMagick
